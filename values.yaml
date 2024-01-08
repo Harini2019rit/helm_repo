@@ -1,0 +1,8 @@
+# values.yaml
+
+replicaCount: 1
+
+image:
+  repository: 381491869042.dkr.ecr.ap-southeast-1.amazonaws.com/newrepo
+  tag: latest
+
